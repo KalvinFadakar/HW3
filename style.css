@@ -1,0 +1,108 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  font-family: arial;
+
+
+}
+
+.red-1 {
+  color: red;
+  font-family: arial;
+  font-size: 50px;
+  display: inline;
+  padding-top: 20px;
+
+
+}
+
+.grey-1 {
+  color: grey;
+  font-family: arial;
+  font-size: 25px;
+  display: inline;
+  padding-top: 20px;
+
+
+}
+
+.col-2, .col-4, .col-8 {
+
+  float: left;
+  box-sizing: border-box;
+
+}
+
+.col-2 {
+
+background-color: black;
+color: white;
+font-size: 20px;
+padding-right: 65px;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 65px;
+margin-left: 1px;
+margin-right: 1px;
+
+
+}
+
+.col-4 {
+  width: 23.333333333%;
+
+}
+
+.col-8 {
+  width: 66.666666%;
+
+}
+
+.red {
+color: red;
+margin-left: 1px;
+margin-right: 1px;
+margin: grey;
+
+}
+
+.padding-top {
+padding-top: 50px;
+
+}
+
+.redright {
+color: red;
+text-align: right;
+font-weight: bold;
+}
+
+.grey {
+color: grey;
+
+}
+
+.large {
+  font-size: 100px;
+  color: grey;
+  display:inline;
+  float: left;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+
+}
+
+.large-2 {
+  font-size: 100px;
+  color: grey;
+  display:inline;
+  float: left;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+
+}
